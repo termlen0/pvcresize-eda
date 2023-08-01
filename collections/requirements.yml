@@ -6,3 +6,4 @@ collections:
     source: https://galaxy.ansible.com
   - name: kubealex.eda
     source: https://galaxy.ansible.com
+  - name: ansible.controller
